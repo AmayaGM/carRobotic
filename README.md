@@ -23,8 +23,8 @@ An embedded control application developed in C for an autonomous/remote vehicle 
 Below are the physical setup and the schematic routing diagrams. Both images are aligned horizontally to optimize readability:
 
 <p align="center">
-  <img src="img/circuito1.jpg" width="45%" />
-  <img src="img/circuito2.jpg" width="45%" />
+  <img src="img/circuitoa.jpg" width="45%" />
+  <img src="img/circuitob.jpg" width="45%" />
 </p>
 
 <p align="center">
